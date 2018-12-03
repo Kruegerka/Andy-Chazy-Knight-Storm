@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "sketch": "ESP8266 Testing\\Websockets Implementation\\esp8266_websockets.ino"
+}
