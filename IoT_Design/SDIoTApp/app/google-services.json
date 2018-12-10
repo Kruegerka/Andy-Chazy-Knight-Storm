@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102292020848",
+    "firebase_url": "https://sd-database-72aa2.firebaseio.com",
+    "project_id": "sd-database-72aa2",
+    "storage_bucket": "sd-database-72aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102292020848:android:e33b27fa25455c91",
+        "android_client_info": {
+          "package_name": "kruegersd2018.sd_iot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102292020848-8i6u16c7f4v81bh43g53om182bogalph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kruegersd2018.sd_iot_app",
+            "certificate_hash": "eb6dbc881412a151470a62c641ba88046b038b62"
+          }
+        },
+        {
+          "client_id": "102292020848-ll4it8r6movce4rfm4dvvtf8vm68hbnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Gug2P_nNHLvaEBCC1w54n5oK1p4rALQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102292020848-ll4it8r6movce4rfm4dvvtf8vm68hbnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
